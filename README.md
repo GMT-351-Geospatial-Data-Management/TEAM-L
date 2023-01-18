@@ -48,6 +48,8 @@
 
 ## Project Overview Diagram
 
+* It is a graphic design that covers the content of the project.
+
 ![diagram](/docs/pern_stack_diagramv2.drawio.png)
 
 ## Build Our Server
