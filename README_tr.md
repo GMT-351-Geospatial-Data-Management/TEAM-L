@@ -143,6 +143,6 @@ const InputClub = () => {
 
 ## İletişim
 
-* <a href="https://github.com/eslemsahin" target="_blank">**Eslem Şahin**</a> - [Gmail](mailto:esleemsahiiin@gmail.com)
-* <a href="https://github.com/neciporkunyalcin" target="_blank">**Necip Orkun Yalçın**</a> - [Gmail](mailto:necip@gmail.com)
-* <a href="https://github.com/umutiik" target="_blank">**Umut Doğan**</a> - [Gmail](mailto:xxumut23@gmail.com)
+* <a href="https://github.com/eslemsahin" target="_blank">**Eslem Şahin**</a> / [Gmail](mailto:esleemsahiiin@gmail.com)
+* <a href="https://github.com/neciporkunyalcin" target="_blank">**Necip Orkun Yalçın**</a> / [Gmail](mailto:necip@gmail.com)
+* <a href="https://github.com/umutiik" target="_blank">**Umut Doğan**</a> / [Gmail](mailto:xxumut23@gmail.com)
