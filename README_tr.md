@@ -44,6 +44,7 @@
 
 ## Genel Bakış Diyagramı
 
+* Projenin tamamını kapsayan bir diagram içermektedir. 
 ![diagram](/docs/pern_stack_diagramv2.drawio.png)
 
 ## Server Kurulumu
@@ -146,3 +147,4 @@ const InputClub = () => {
 * <a href="https://github.com/eslemsahin" target="_blank">**Eslem Şahin**</a> / [Gmail](mailto:esleemsahiiin@gmail.com)
 * <a href="https://github.com/neciporkunyalcin" target="_blank">**Necip Orkun Yalçın**</a> / [Gmail](mailto:necip@gmail.com)
 * <a href="https://github.com/umutiik" target="_blank">**Umut Doğan**</a> / [Gmail](mailto:xxumut23@gmail.com)
+
