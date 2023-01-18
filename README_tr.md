@@ -1,5 +1,5 @@
 ![alt text](https://www.freelogovectors.net/wp-content/uploads/2020/07/hacettepe-universitesi-logo-768x178.png)
-# HACETTEPE TOPLULUK
+# HACETTEPE ÖĞRENCİ TOPLULUK SİTESİ
 ---
 
 - Bu bir PostgreSQL Express React Node.js (PERN) Stack projesidir.
@@ -12,7 +12,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Berke0609/Topluluk?style=plastic)
 
 
-## Genel Bakış
+## Projeye Genel Bakış
 
 ### Backend
 * PostgreSQL yüklenmiş ve çalışır olmalıdır. Bu proje için Windows 11 64bit PostgreSQL 15 kullanıldı.
@@ -118,12 +118,18 @@ const InputClub = () => {
 ```
 
 ## Ekran Görüntüleri
+
 * Database
-![database](/docs/database.png)
+* 
+![database](/docs/database2.png)
+
 * Postman test aşaması
+* 
 ![postman](/docs/postman_test.png)
+
 * Console log
-![Console](/docs/LOCALHOST3000.jpg)
+* 
+![Console](/docs/localhost2.jpg)
 
 ## Genel Araçlar / Referanslar
 
@@ -137,6 +143,6 @@ const InputClub = () => {
 
 ## İletişim
 
-* <a href="https://github.com/Berke0609" target="_blank">**Berke Aygören**</a> - [Gmail](mailto:berkeaygoren5@gmail.com)
-* <a href="https://github.com/f-karakus" target="_blank">**Fevzican Karakuş**</a> - [Gmail](mailto:fevzican.karakus@gmail.com)
-* <a href="https://github.com/cirpanrafet" target="_blank">**Rafet ÇIRPAN**</a> - [Gmail](mailto:cirpanrafet@gmail.com)
+* <a href="https://github.com/eslemsahin" target="_blank">**Eslem Şahin**</a> - [Gmail](mailto:esleemsahiiin@gmail.com)
+* <a href="https://github.com/neciporkunyalcin" target="_blank">**Necip Orkun Yalçın**</a> - [Gmail](mailto:fevzican.karakus@gmail.com)
+* <a href="https://github.com/umutiik" target="_blank">**Umut Doğan**</a> - [Gmail](mailto:xxumut23@gmail.com)
