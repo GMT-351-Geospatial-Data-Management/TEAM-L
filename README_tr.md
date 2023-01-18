@@ -124,12 +124,12 @@ const InputClub = () => {
 ![database](/docs/database2.png)
 
 * Postman test aşaması
-* 
+
 ![postman](/docs/postman_test.png)
 
 * Console log
-* 
-![Console](/docs/localhost2.jpg)
+
+![Console](/docs/localhost2.png)
 
 ## Genel Araçlar / Referanslar
 
