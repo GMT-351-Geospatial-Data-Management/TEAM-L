@@ -132,6 +132,12 @@ const InputClub = () => {
 
 ![Console](/docs/localhost2.png)
 
+
+## Sonuç
+
+* Sonuç olarak bu projede başından beri anlatılan adımlar sonucunda bir üniversite topluluğuna ait isim ve etkinlik bilgilerinin paylaşımını içeren bir website kullanıcıya sunulmuştur.
+
+
 ## Genel Araçlar / Referanslar
 
 * <a href="https://www.youtube.com/watch?v=ldYcgPKEZC8" target="_blank">PERN Stack Course - Postgres, Express, React, and Node</a>
