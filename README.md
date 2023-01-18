@@ -124,11 +124,11 @@ const InputClub = () => {
 * Database
 ![database](/docs/database2.png)
 
-* Postman testing
+* Postman Testing
 
 ![postman](/docs/postman_test.png)
 
-* Console log
+* Console Log
 
 ![Console](/docs/localhost2.png)
 
