@@ -5,11 +5,11 @@
 - Bu bir PostgreSQL Express React Node.js (PERN) Stack projesidir.
 - **Frontend**: React, **Backend**: Node.js, **Database**: PostgreSQL
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Berke0609/Topluluk?style=plastic)
-![GitHub pull request](https://img.shields.io/github/issues-pr/Berke0609/Topluluk?style=plastic)
-![GitHub Repo stars](https://img.shields.io/github/stars/Berke0609/Topluluk?style=plastic)
-![GitHub contributors](https://img.shields.io/github/contributors/Berke0609/Topluluk?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/Berke0609/Topluluk?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/GMT-351-Geospatial-Data-Management/TEAM-L?style=plastic)
+![GitHub pull request](https://img.shields.io/github/issues-pr/GMT-351-Geospatial-Data-Management/TEAM-L?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/GMT-351-Geospatial-Data-Management/TEAM-L?style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/GMT-351-Geospatial-Data-Management/TEAM-L?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/GMT-351-Geospatial-Data-Management/TEAM-L?style=plastic)
 
 
 ## Projeye Genel Bakış
