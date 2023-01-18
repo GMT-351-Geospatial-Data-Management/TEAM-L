@@ -119,15 +119,15 @@ const InputClub = () => {
 
 ## Ekran Görüntüleri
 
-* Database
-* 
+### Database
+ 
 ![database](/docs/database2.png)
 
-* Postman Test Aşaması
+### Postman Test Aşaması
 
 ![postman](/docs/postman_test.png)
 
-* Console Log
+### Console Log
 
 ![Console](/docs/localhost2.png)
 
