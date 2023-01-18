@@ -44,7 +44,7 @@
 
 ## Genel Bakış Diyagramı
 
-* Projenin tamamını kapsayan bir diagram içermektedir. 
+* Projenin içeriğini kapsayan bir grafik tasarımıdır. 
 ![diagram](/docs/pern_stack_diagramv2.drawio.png)
 
 ## Server Kurulumu
