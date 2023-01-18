@@ -135,6 +135,10 @@ const InputClub = () => {
 
 ![Console](/docs/localhost2.png)
 
+## Conclusion 
+
+* As a result, as a result of the steps described in this project from the beginning, a website that includes the sharing of the name and event information of a university community has been presented to the user.
+
 ## General Tools / References
 * <a href="https://www.youtube.com/watch?v=ldYcgPKEZC8" target="_blank">PERN Stack Course - Postgres, Express, React, and Node</a>
 * <a href="https://reactjs.org/docs/getting-started.html" target="_blank">React documentation</a>
